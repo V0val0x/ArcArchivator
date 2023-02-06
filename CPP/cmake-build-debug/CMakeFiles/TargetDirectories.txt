@@ -1,0 +1,3 @@
+D:/Labi_kisa/CPP/cmake-build-debug/CMakeFiles/CPP.dir
+D:/Labi_kisa/CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Labi_kisa/CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
